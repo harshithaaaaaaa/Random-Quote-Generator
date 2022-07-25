@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(36, 232, 229);
+  }
+  .container{
+    text-align: center;
+  }
+  .display{
+    align-content: center;
+    background: #ffffff;
+    min-height:20px;
+    box-shadow: 0 0 20px rgba(0,139,253,0.25); 
+     background-color: rgb(201, 58, 82);
+  }
+  .container button {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #023b80;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+   
+  }
